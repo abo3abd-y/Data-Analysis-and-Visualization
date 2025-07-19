@@ -27,4 +27,4 @@ All lessons and exercises are organized as standalone Jupyter Notebooks.
 
 ---
 
-> 🚀 This repo is part of the larger [Data Science Roadmap](https://github.com/your-username/data-science).
+> 🚀 This repo is part of the larger [Data Science Roadmap](https://github.com/abo3abd-y/Data-Science).
